@@ -1,5 +1,5 @@
 import "./globals.css";
-import Navbar from "./components/Navbar.tsx";
+import Navbar from "./components/Navbar";
 import type { ReactNode } from "react";
 
 export const metadata = {
